@@ -1,2 +1,3 @@
 # team-rocket
-Fantastic project!s
+Fantastic project!
+:)
